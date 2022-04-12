@@ -32,7 +32,8 @@
     "manifest": {
         "version": "1.3",
         "author": "Extbhite [EAS]",
-        "name": "BlackEagle"
+        "name": "BlackEagle",
+        "updater": "https:\/\/raw.githubusercontent.com\/ExtbhiteEAS\/Black-Eagle\/main\/BlackEagle.json"
     },
     "simple_colors": {
         "accent": -13158601,
