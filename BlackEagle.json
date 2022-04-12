@@ -1,0 +1,16 @@
+{
+    "manifest": {
+        "author": "҈҈҈#4363",
+        "name": "BlackEagle",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/954482447016407133\/962439831370231888\/photo-1573339607881-208e75e4b267.jpeg",
+        "overlay_alpha": 85
+    },
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
