@@ -11,22 +11,22 @@
         "brand_600": -15000805,
         "brand_new": -14803426,
         "flexInputIconColor": -13290187,
-        "link": -11824171,
-        "link_light": -9459234,
+        "link": -5000269,
+        "link_light": -4005121,
         "material_grey_50": -15000543,
-        "uikit_btn_bg_color_selector_background_accent_light": -15527142,
+        "uikit_btn_bg_color_selector_background_accent_light": -12961222,
         "uikit_btn_bg_color_selector_green": -13553359,
         "uikit_btn_bg_color_selector_red": -43818141,
-        "uikit_btn_bg_color_selector_secondary_dark": -14803426,
-        "uikit_btn_bg_color_selector_secondary_light": -15000543,
+        "uikit_btn_bg_color_selector_secondary_dark": -12040120,
+        "uikit_btn_bg_color_selector_secondary_light": -12500671,
         "uikit_btn_compound_color_selector_light": -1124073472,
         "primary_dark_660": 905969664,
-        "link_500": -11824171
+        "link_500": -2039584
     },
     "drawable_tints": {
         "drawable_button_grey": -8288631,
-        "drawable_overlay_channels_active_dark": 2062939637,
-        "drawable_overlay_channels_selected_dark": -2132351258
+        "drawable_overlay_channels_active_dark": 2052544343,
+        "drawable_overlay_channels_selected_dark": -2138996351
     },
     "fonts": {},
     "manifest": {
@@ -39,7 +39,7 @@
         "accent": -13158601,
         "background": 639376412,
         "background_secondary": 1192695575,
-        "mention_highlight": -1286582192
+        "mention_highlight": 980973688
     },
     "raws": {}
 }
